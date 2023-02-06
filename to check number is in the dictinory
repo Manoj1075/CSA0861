@@ -1,0 +1,4 @@
+dict = {1602:"Aman", 1602: "Roshni", 1603: "Utkarsh", 1699:"Kritika"}
+
+print("1602 Present? ", 1602 in dict)
+print("1600 Present? ", 1600 in dict)
